@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF63723A-817F-4AFA-8F16-9D557350B8CC}|VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\lzo.net\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{FF63723A-817F-4AFA-8F16-9D557350B8CC}|VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lzo.net||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021F12D4-35D6-4313-8C61-1E15760BFB31}|Lzo.net\\Lzo.net.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\lzo.net\\lzo.net\\lzocompressor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{021F12D4-35D6-4313-8C61-1E15760BFB31}|Lzo.net\\Lzo.net.vbproj|solutionrelative:lzo.net\\lzocompressor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VBSample||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C476B94-1160-4166-AACD-068C02F1F828}|Lzo.net.csproj|d:\\source vbnet_c#\\github\\lzo-compression\\lzo.net\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,31 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\VBSample\\Form1.vb",
-              "RelativeDocumentMoniker": "VBSample\\Form1.vb",
-              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\VBSample\\Form1.vb [Design]",
-              "RelativeToolTip": "VBSample\\Form1.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T02:11:35.435Z",
-              "EditorCaption": " [Design]"
+              "Title": "Lzo.net",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\Lzo.net.csproj",
+              "RelativeDocumentMoniker": "Lzo.net.csproj",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\Lzo.net.csproj",
+              "RelativeToolTip": "Lzo.net.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-26T02:54:47.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "lzoCompressor.vb",
-              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\Lzo.net\\lzoCompressor.vb",
-              "RelativeDocumentMoniker": "Lzo.net\\lzoCompressor.vb",
-              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\Lzo.net\\lzoCompressor.vb",
-              "RelativeToolTip": "Lzo.net\\lzoCompressor.vb",
-              "ViewState": "AQIAAEgAAAAAAAAAAAA3wCQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T01:56:22.474Z",
+              "Title": "VBSample",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\VBSample.vbproj",
+              "RelativeDocumentMoniker": "..\\VBSample\\VBSample.vbproj",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\VBSample.vbproj*",
+              "RelativeToolTip": "..\\VBSample\\VBSample.vbproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-26T02:54:43.17Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

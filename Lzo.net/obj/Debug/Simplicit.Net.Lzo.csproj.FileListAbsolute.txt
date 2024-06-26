@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\bin\Debug\Simplicit.Net.Lzo.dll
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\bin\Debug\Simplicit.Net.Lzo.pdb
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Simplicit.Net.Lzo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Simplicit.Net.Lzo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Simplicit.Net.Lzo.dll
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Simplicit.Net.Lzo.pdb

@@ -22,57 +22,63 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Button1 = New Button()
-        Button2 = New Button()
-        OpenFileDialog1 = New OpenFileDialog()
-        SaveFileDialog1 = New SaveFileDialog()
-        TextBox1 = New TextBox()
-        SuspendLayout()
-        ' 
-        ' Button1
-        ' 
-        Button1.Location = New Point(83, 202)
-        Button1.Name = "Button1"
-        Button1.Size = New Size(127, 23)
-        Button1.TabIndex = 0
-        Button1.Text = "Compress"
-        Button1.UseVisualStyleBackColor = True
-        ' 
-        ' Button2
-        ' 
-        Button2.Location = New Point(92, 231)
-        Button2.Name = "Button2"
-        Button2.Size = New Size(118, 23)
-        Button2.TabIndex = 1
-        Button2.Text = "Decompress"
-        Button2.UseVisualStyleBackColor = True
-        ' 
-        ' TextBox1
-        ' 
-        TextBox1.Location = New Point(22, 28)
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(293, 23)
-        TextBox1.TabIndex = 2
-        ' 
-        ' Form1
-        ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
-        AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(356, 450)
-        Controls.Add(TextBox1)
-        Controls.Add(Button2)
-        Controls.Add(Button1)
-        MaximizeBox = False
-        Name = "Form1"
-        Text = "Form1"
-        ResumeLayout(False)
-        PerformLayout()
-    End Sub
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
+        Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
+        Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
+        Me.SuspendLayout()
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(12, 147)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(236, 36)
+        Me.Button1.TabIndex = 0
+        Me.Button1.Text = "Compress"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(12, 189)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(236, 36)
+        Me.Button2.TabIndex = 1
+        Me.Button2.Text = "Uncompress"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'LinkLabel1
+        '
+        Me.LinkLabel1.AutoSize = True
+        Me.LinkLabel1.Location = New System.Drawing.Point(48, 385)
+        Me.LinkLabel1.Name = "LinkLabel1"
+        Me.LinkLabel1.Size = New System.Drawing.Size(167, 13)
+        Me.LinkLabel1.TabIndex = 3
+        Me.LinkLabel1.TabStop = True
+        Me.LinkLabel1.Text = "https://2conglc-vn.blogspot.com/"
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(255, 436)
+        Me.Controls.Add(Me.LinkLabel1)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Button1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
+        Me.Name = "Form1"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Lzo Compress Test"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
 
-    Friend WithEvents Button1 As Button
-    Friend WithEvents Button2 As Button
+    End Sub
     Friend WithEvents OpenFileDialog1 As OpenFileDialog
     Friend WithEvents SaveFileDialog1 As SaveFileDialog
-    Friend WithEvents TextBox1 As TextBox
-
+    Friend WithEvents Button1 As Button
+    Friend WithEvents Button2 As Button
+    Friend WithEvents LinkLabel1 As LinkLabel
 End Class

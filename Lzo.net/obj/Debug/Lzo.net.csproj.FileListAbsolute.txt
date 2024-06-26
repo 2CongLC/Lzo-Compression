@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Lzo.net.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Lzo.net.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\bin\Debug\Lzo.net_2024.dll
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\bin\Debug\Lzo.net_2024.pdb
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Lzo.net_2024.dll
+C:\Users\Administrator\Downloads\Simplicit.Net.Lzo-master\Simplicit.Net.Lzo\obj\Debug\Lzo.net_2024.pdb
+D:\Source VBNet_C#\GitHub\Lzo-Compression\Lzo.net\bin\Debug\Lzo.net_2024.dll
+D:\Source VBNet_C#\GitHub\Lzo-Compression\Lzo.net\bin\Debug\Lzo.net_2024.pdb
+D:\Source VBNet_C#\GitHub\Lzo-Compression\Lzo.net\obj\Debug\Lzo.net.csproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Lzo-Compression\Lzo.net\obj\Debug\Lzo.net.csproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Lzo-Compression\Lzo.net\obj\Debug\Lzo.net_2024.dll
+D:\Source VBNet_C#\GitHub\Lzo-Compression\Lzo.net\obj\Debug\Lzo.net_2024.pdb

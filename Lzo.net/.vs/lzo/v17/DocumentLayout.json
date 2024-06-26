@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|lzo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C476B94-1160-4166-AACD-068C02F1F828}|lzo.csproj|d:\\source vbnet_c#\\github\\lzo-compression\\lzo.net\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lzo",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\lzo.csproj",
+              "RelativeDocumentMoniker": "lzo.csproj",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\lzo.csproj",
+              "RelativeToolTip": "lzo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-26T02:38:17.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{021F12D4-35D6-4313-8C61-1E15760BFB31}|Lzo.net\\Lzo.net.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\lzo.net\\lzocompressor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{021F12D4-35D6-4313-8C61-1E15760BFB31}|Lzo.net\\Lzo.net.vbproj|solutionrelative:lzo.net\\lzocompressor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF63723A-817F-4AFA-8F16-9D557350B8CC}|VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{FF63723A-817F-4AFA-8F16-9D557350B8CC}|VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF63723A-817F-4AFA-8F16-9D557350B8CC}|VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{FF63723A-817F-4AFA-8F16-9D557350B8CC}|VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lzoCompressor.vb",
-              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\lzoCompressor.vb",
-              "RelativeDocumentMoniker": "Lzo.net\\lzoCompressor.vb",
-              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\Lzo.net\\lzoCompressor.vb",
-              "RelativeToolTip": "Lzo.net\\lzoCompressor.vb",
-              "ViewState": "AQIAACIAAAAAAAAAAAAcwAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T02:24:40.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\Form1.vb",
-              "RelativeDocumentMoniker": "VBSample\\Form1.vb",
-              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\Form1.vb",
-              "RelativeToolTip": "VBSample\\Form1.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T02:18:03.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\Form1.vb",
               "RelativeDocumentMoniker": "VBSample\\Form1.vb",
               "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\Form1.vb [Design]",
               "RelativeToolTip": "VBSample\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T02:16:51.572Z",
+              "WhenOpened": "2024-06-26T02:55:45.45Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\Form1.vb",
+              "RelativeDocumentMoniker": "VBSample\\Form1.vb",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\Form1.vb",
+              "RelativeToolTip": "VBSample\\Form1.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvy0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T02:55:04.195Z",
+              "EditorCaption": ""
             }
           ]
         }
