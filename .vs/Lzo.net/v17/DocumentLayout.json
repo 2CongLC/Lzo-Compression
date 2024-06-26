@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|d:\\source vbnet_c#\\github\\lzo-compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{DE5A400B-58C3-46D8-BAE5-461DB61CD903}|..\\VBSample\\VBSample.vbproj|solutionrelative:vbsample\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -29,8 +29,7 @@
               "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Lzo-Compression\\VBSample\\Form1.vb [Design]",
               "RelativeToolTip": "VBSample\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T02:55:45.45Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-26T02:55:45.45Z"
             },
             {
               "$type": "Document",
